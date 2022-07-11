@@ -1,0 +1,15 @@
+{
+  "name": "mini-promise",
+  "version": "1.0.0",
+  "description": "A mini promises.",
+  "main": "index.js",
+  "author": "yxlazy",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "test": "promises-aplus-tests src/"
+  },
+  "devDependencies": {
+    "promises-aplus-tests": "^2.1.2"
+  }
+}
